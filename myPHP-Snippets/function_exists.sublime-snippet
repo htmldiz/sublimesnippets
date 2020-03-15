@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[if (!function_exists('${1:function_exists}')) {
+    function ${1:function_exists}(){
+        
+    }
+}]]></content>
+    <tabTrigger>function</tabTrigger>
+    <description>PHP: function</description>
+    <scope></scope>
+</snippet>

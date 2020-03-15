@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display: flex;]]></content>
+    <tabTrigger>display-flex</tabTrigger>
+    <description>CSS - display-flex</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

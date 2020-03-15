@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[file_get_contents(${1})]]></content>
+    <tabTrigger>get_file_content</tabTrigger>
+    <description>PHP: get_file_content</description>
+    <scope></scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 ${0};
+      -ms-flex: 0 0 ${0};
+          flex: 0 0 ${0};
+  max-width: ${0};]]></content>
+    <tabTrigger>flex</tabTrigger>
+    <description>CSS - flex</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

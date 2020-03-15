@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flex-direction: row;]]></content>
+    <tabTrigger>flex-direction-row</tabTrigger>
+    <description>CSS - flex-direction-row</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

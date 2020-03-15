@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-self: flex-end;]]></content>
+    <tabTrigger>align-self-end</tabTrigger>
+    <description>CSS - align-self-end</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

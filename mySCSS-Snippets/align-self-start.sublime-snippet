@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-self: flex-start;]]></content>
+    <tabTrigger>align-self-start</tabTrigger>
+    <description>CSS - align-self-start</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

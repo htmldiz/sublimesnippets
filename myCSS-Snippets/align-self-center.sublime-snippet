@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+                -ms-grid-row-align: center;
+            align-self: center;]]></content>
+    <tabTrigger>align-self-center</tabTrigger>
+    <description>CSS - align-self-center</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

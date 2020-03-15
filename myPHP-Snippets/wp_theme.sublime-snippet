@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[/* Template Name: ${1:Template} */]]></content>
+    <tabTrigger>templ</tabTrigger>
+    <description>PHP: wordpress Template</description>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[//silence is Golden]]></content>
+    <tabTrigger>gold</tabTrigger>
+    <description>PHP: silence is Golden</description>
+    <scope>source.php</scope>
+</snippet>

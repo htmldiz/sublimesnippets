@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;]]></content>
+    <tabTrigger>justify-content-center</tabTrigger>
+    <description>CSS - justify-content-center</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

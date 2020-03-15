@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;]]></content>
+    <tabTrigger>justify-content-between</tabTrigger>
+    <description>CSS - justify-content-between</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

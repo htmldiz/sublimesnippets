@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_current_user_id()]]></content>
+    <tabTrigger>user_id</tabTrigger>
+    <description>PHP: user_id</description>
+    <scope>source.php</scope>
+</snippet>

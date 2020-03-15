@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[*, ::after, ::before {
+	box-sizing: inherit;
+}]]></content>
+    <tabTrigger>*</tabTrigger>
+    <description>CSS - align-content-start</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

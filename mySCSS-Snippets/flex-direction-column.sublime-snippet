@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flex-direction: column;]]></content>
+    <tabTrigger>flex-direction-column</tabTrigger>
+    <description>CSS - flex-direction-column</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

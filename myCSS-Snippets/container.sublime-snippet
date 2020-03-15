@@ -1,0 +1,51 @@
+<snippet>
+    <content><![CDATA[
+@media (min-width: 1200px) {
+  .${0} {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  .${0} {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media (min-width: 576px) {
+  .${0} {
+    width: 540px;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .${0} {
+    width: 720px;
+    max-width: 100%;
+	  position: relative;
+	  margin-left: auto;
+	  margin-right: auto;
+	  padding-right: 15px;
+	  padding-left: 15px;
+  }
+}
+
+@media (min-width: 992px) {
+  .${0} {
+    width: 960px;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .${0} {
+    width: 1140px;
+    max-width: 100%;
+  }
+}]]></content>
+    <tabTrigger>container</tabTrigger>
+    <description>CSS - container</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

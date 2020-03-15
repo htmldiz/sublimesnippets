@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[if(isset(\$_POST['${1:var}'])){
+	\$${1:var} = \$_POST['${1:var}'];
+}
+]]></content>
+    <tabTrigger>_post</tabTrigger>
+    <description>PHP: get</description>
+    <scope>source.php</scope>
+</snippet>

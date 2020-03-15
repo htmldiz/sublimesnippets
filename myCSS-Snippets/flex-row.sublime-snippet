@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;]]></content>
+    <tabTrigger>flex-row</tabTrigger>
+    <description>CSS - flex-row</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

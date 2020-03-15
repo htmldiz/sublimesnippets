@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[add_action( 'wp_ajax_${1}', '${1}' );
+add_action( 'wp_ajax_nopriv_${1}', '${1}' );
+function ${1}(){
+	
+}
+]]></content>
+    <tabTrigger>wp_ajax</tabTrigger>
+    <description>PHP: wordpress ajax</description>
+    <scope>source.php</scope>
+</snippet>

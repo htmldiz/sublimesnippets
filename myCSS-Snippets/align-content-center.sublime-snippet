@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-align-content: center;
+        -ms-flex-line-pack: center;
+            align-content: center;]]></content>
+    <tabTrigger>align-content-center</tabTrigger>
+    <description>CSS - align-content-center</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

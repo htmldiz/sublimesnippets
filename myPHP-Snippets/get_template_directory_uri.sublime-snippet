@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[get_template_directory_uri()]]></content>
+    <tabTrigger>theme_url</tabTrigger>
+    <description>PHP: get_template_directory_uri</description>
+    <scope>source.php</scope>
+</snippet>

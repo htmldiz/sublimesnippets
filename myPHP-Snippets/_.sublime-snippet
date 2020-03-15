@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[__( '${1:text}','coursesystem' )]]></content>
+    <tabTrigger>_</tabTrigger>
+    <description>PHP: _</description>
+    <scope>source.php</scope>
+</snippet>

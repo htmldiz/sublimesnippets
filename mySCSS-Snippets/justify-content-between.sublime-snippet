@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: space-between;]]></content>
+    <tabTrigger>justify-content-between</tabTrigger>
+    <description>CSS - justify-content-between</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

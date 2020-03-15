@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: flex-end;]]></content>
+    <tabTrigger>justify-content-end</tabTrigger>
+    <description>CSS - justify-content-end</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

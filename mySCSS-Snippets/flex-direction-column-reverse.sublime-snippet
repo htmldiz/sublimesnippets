@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flex-direction: column-reverse;]]></content>
+    <tabTrigger>flex-direction-column-reverse</tabTrigger>
+    <description>CSS - flex-direction-column-reverse</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

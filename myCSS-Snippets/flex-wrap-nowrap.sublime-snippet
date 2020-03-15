@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-flex-wrap: nowrap;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;]]></content>
+    <tabTrigger>flex-wrap-nowrap</tabTrigger>
+    <description>CSS - flex-wrap-nowrap</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

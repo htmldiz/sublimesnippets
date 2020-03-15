@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: flex-start;]]></content>
+    <tabTrigger>justify-content-start</tabTrigger>
+    <description>CSS - justify-content-start</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

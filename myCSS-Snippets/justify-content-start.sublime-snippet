@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;]]></content>
+    <tabTrigger>justify-content-start</tabTrigger>
+    <description>CSS - justify-content-start</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

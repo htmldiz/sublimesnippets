@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;]]></content>
+    <tabTrigger>d-f</tabTrigger>
+    <description>CSS - display-flex</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

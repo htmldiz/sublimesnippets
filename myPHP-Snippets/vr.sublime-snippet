@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[\$${1:var} = ${2};
+]]></content>
+    <tabTrigger>vr</tabTrigger>
+    <description>PHP: var</description>
+    <scope>source.php</scope>
+</snippet>

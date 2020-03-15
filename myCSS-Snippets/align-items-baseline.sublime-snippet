@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;]]></content>
+    <tabTrigger>align-items-baseline</tabTrigger>
+    <description>CSS - align-items-baseline</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

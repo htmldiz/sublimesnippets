@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[display: flex;
+  flex-wrap: wrap;]]></content>
+    <tabTrigger>flex-row</tabTrigger>
+    <description>CSS - flex-row</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

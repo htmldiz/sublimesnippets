@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[\$file = fopen('${1:filename}', 'w+');
+fwrite(\$file, \$${2:var});
+fclose(\$file);]]></content>
+    <tabTrigger>file</tabTrigger>
+    <description>PHP: file</description>
+    <scope>source.php</scope>
+</snippet>

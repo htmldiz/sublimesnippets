@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[ob_start();
+${1}
+\$file_content = ob_get_contents();
+ob_end_clean();
+]]></content>
+    <tabTrigger>ob_start</tabTrigger>
+    <description>PHP: ob_start</description>
+    <scope>source.php</scope>
+</snippet>

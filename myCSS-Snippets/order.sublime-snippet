@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+    -ms-flex-order: ${0};
+        order: ${0};]]></content>
+    <tabTrigger>order</tabTrigger>
+    <description>CSS - order</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

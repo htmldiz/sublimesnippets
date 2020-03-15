@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;]]></content>
+    <tabTrigger>flex-direction-column</tabTrigger>
+    <description>CSS - flex-direction-column</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

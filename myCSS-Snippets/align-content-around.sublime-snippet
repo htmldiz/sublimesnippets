@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-align-content: space-around;
+        -ms-flex-line-pack: distribute;
+            align-content: space-around;]]></content>
+    <tabTrigger>align-content-around</tabTrigger>
+    <description>CSS - align-content-around</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

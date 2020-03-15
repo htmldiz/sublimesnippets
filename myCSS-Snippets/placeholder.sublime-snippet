@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[${1}::-webkit-input-placeholder{
+	${2}
+}
+${1}::-moz-placeholder{
+	${2}
+}
+${1}:-ms-input-placeholder{
+	${2}
+}
+${1}:-moz-placeholder{
+	${2}
+}
+${1}::placeholder{
+	${2}
+}]]></content>
+    <tabTrigger>placeholder</tabTrigger>
+    <description>CSS - placeholder</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

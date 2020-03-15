@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-align-self: flex-end;
+        -ms-flex-item-align: end;
+            align-self: flex-end;]]></content>
+    <tabTrigger>align-self-end</tabTrigger>
+    <description>CSS - align-self-end</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

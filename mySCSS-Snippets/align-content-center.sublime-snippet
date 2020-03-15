@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-content: center;]]></content>
+    <tabTrigger>align-content-center</tabTrigger>
+    <description>CSS - align-content-center</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

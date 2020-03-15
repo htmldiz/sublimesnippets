@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-flex-wrap: wrap-reverse;
+        -ms-flex-wrap: wrap-reverse;
+            flex-wrap: wrap-reverse;]]></content>
+    <tabTrigger>flex-wrap-wrap-reverse</tabTrigger>
+    <description>CSS - flex-wrap-wrap-reverse</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

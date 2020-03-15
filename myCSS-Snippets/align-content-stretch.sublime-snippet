@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+    -webkit-align-content: stretch;
+        -ms-flex-line-pack: stretch;
+            align-content: stretch;]]></content>
+    <tabTrigger>align-content-stretch</tabTrigger>
+    <description>CSS - align-content-stretch</description>
+    <scope>source.css, source.stylus</scope>
+</snippet>

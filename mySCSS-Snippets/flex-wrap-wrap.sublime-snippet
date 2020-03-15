@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[flex-wrap: wrap;]]></content>
+    <tabTrigger>flex-wrap-wrap</tabTrigger>
+    <description>CSS - flex-wrap-wrap</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>

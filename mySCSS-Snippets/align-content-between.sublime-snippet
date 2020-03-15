@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-content: space-between;]]></content>
+    <tabTrigger>align-content-between</tabTrigger>
+    <description>CSS - align-content-between</description>
+    <scope>source.sass, source.scss</scope>
+</snippet>
